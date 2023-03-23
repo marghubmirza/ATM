@@ -37,6 +37,8 @@ Upon launching the clothes picker you will be greeted with the following prompts
 
 ![Clothes PIcker CLI](Images/cli.png)
 
+![Alt text](Columbia.jpeg?raw=true "BootCamp")
+
 ---
 
 ---
