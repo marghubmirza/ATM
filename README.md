@@ -1,4 +1,4 @@
-# Explore README.md Files
+# Explore README.md Files Mirza
 
 In this activity, you’ll work in groups to review `README.md` files for two GitHub repos, and then share suggestions for making them easier to read and understand.
 
